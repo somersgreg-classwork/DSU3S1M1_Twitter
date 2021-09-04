@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+DS_u3s1m1-Twitter/__init__.py
+DS_u3s1m1-Twitter/app.py
+DS_u3s1m1_GregSomers.egg-info/PKG-INFO
+DS_u3s1m1_GregSomers.egg-info/SOURCES.txt
+DS_u3s1m1_GregSomers.egg-info/dependency_links.txt
+DS_u3s1m1_GregSomers.egg-info/requires.txt
+DS_u3s1m1_GregSomers.egg-info/top_level.txt
